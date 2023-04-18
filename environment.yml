@@ -6,4 +6,5 @@ dependencies:
   - numpy
   - pandas
   - jupyterlab
+  - sqlalchemy
 prefix: C:\Users\James\anaconda3\envs\comp30830

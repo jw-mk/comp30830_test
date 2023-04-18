@@ -1,8 +1,11 @@
-def main():
+def mainMethod():
     """
-    prints "Hello World"
+    prints "Changed some more stuff here"
     """
-    print("Hello World!")
+    print("Testing merging conflicts. If this on main, it worked.")
+
+
+
 
 if __name__ == '__main__':
-    main()
+    mainMethod()
