@@ -4,7 +4,8 @@ def mainMethod():
     """
     print("Testing merging conflicts. If this on main, it worked.")
 
-
+def otherMethod():
+    print("OtherTest")
 
 
 if __name__ == '__main__':
