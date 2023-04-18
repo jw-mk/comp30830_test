@@ -1,11 +1,11 @@
 def mainMethod():
     """
-    prints "Changed some more stuff here"
+    prints "Changed some more stuff here. This is testmerge."
     """
-    print("Testing merging conflicts. If this on main, it worked.")
+    print("Testing merging conflicts. If this on main, it worked. Theis is testmerge.")
 
 def otherMethod():
-    print("OtherTest")
+    print("OtherTest. TestMerge.")
 
 
 if __name__ == '__main__':
